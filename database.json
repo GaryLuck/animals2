@@ -1,0 +1,21 @@
+{
+  "text": "does it swim",
+  "yes": {
+    "text": "fish"
+  },
+  "no": {
+    "text": "does it have pinchers",
+    "yes": {
+      "text": "crab"
+    },
+    "no": {
+      "text": "does it fly",
+      "yes": {
+        "text": "bird"
+      },
+      "no": {
+        "text": "Human"
+      }
+    }
+  }
+}

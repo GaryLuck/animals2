@@ -1,7 +1,19 @@
 {
   "text": "does it swim",
   "yes": {
-    "text": "fish"
+    "text": "does it walk",
+    "yes": {
+      "text": "human"
+    },
+    "no": {
+      "text": "does it breath air",
+      "yes": {
+        "text": "dolphin"
+      },
+      "no": {
+        "text": "fish"
+      }
+    }
   },
   "no": {
     "text": "does it have pinchers",
